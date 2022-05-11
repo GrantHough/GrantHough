@@ -5,5 +5,5 @@
 
 # If you're interested in my projects, take a look at my [Devpost](https://devpost.com/grant-l-hough?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav).
 
-![Grant's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Grant's GitHub stats](https://github-readme-stats.vercel.app/api?username=granthough&show_icons=true&theme=tokyonight)
 
