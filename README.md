@@ -6,4 +6,4 @@
 
 ![Grant's GitHub stats](https://github-readme-stats.vercel.app/api?username=granthough&show_icons=true&theme=tokyonight)
 
-![]https://komarev.com/ghpvc/?username=granthough)
+![](https://komarev.com/ghpvc/?username=granthough)
