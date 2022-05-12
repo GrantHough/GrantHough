@@ -7,6 +7,6 @@
 - If you're interested in my projects, take a look at my [Devpost](https://devpost.com/grant-l-hough?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav).
 
 ![Grant's GitHub stats](https://github-readme-stats.vercel.app/api?username=granthough&show_icons=true&theme=tokyonight)
-[![Grant's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/granthough/github-readme-stats)
+[![Grant's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=granthough&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=granthough)
