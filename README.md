@@ -1,6 +1,6 @@
 # Hey, I'm Grant Hough.
 
-- I'm 15 years old and I currently attend Saratoga High School.
+- I'm 16 years old and I currently attend Saratoga High School.
 - I'm a full-stack developer with interest in machine learning. 
 - I have experience creating iOS apps and am currently exploring the implementation of PyTorch/TensorFlow models in iOS apps in order to take advantage of mobile-specific features
 - Outside of CS, I'm a percussionist who marched with The Blue Devils 'B' Drum and Bugle Corps.
