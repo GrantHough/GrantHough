@@ -3,8 +3,9 @@
 - I'm 16 years old and I currently attend Saratoga High School.
 - I'm a full-stack developer with interest in machine learning. 
 - I have experience with mobile apps, browser extensions, websites, and more.
-- I'm currently working on a browser extension called SpeakEasy that helps users keep what they're saying politically correct.
+- I'm currently working on a browser extension called [SpeakEasy](https://speakeasy.ooo/) that helps users keep what they're saying politically correct.
 - Outside of CS, I'm a percussionist who marched with The Blue Devils 'B' Drum and Bugle Corps.
+- I'm also developing and teaching an [AI web app class](https://zerotoai.org) at the Saratoga Library this summer!
 - If you're interested in my projects, take a look at my [website](https://granthough.me/).
 
 ![Grant's GitHub stats](https://github-readme-stats.vercel.app/api?username=granthough&show_icons=true&theme=tokyonight)
