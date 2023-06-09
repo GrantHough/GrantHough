@@ -8,8 +8,6 @@
 - I'm also developing and teaching an [AI web app class](https://zerotoai.org) at the Saratoga Library this summer!
 - If you're interested in my projects, take a look at my [website](https://granthough.me/).
 
-![Grant's GitHub stats](https://github-readme-stats.vercel.app/api?username=granthough&show_icons=true&theme=tokyonight)
-
 <!-- [![Grant's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=granthough&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
 [![Grant's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=granthough&exclude_repo=band-aid,skinhub)](https://github.com/anuraghazra/github-readme-stats)
