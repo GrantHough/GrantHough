@@ -1,4 +1,4 @@
-# I'm Grant Hough.
+# Grant Hough
 
 - I'm a freshman at UC Berkeley studying EECS.
 - I've built mobile apps, browser extensions, websites, bots, neural networks, and more.
