@@ -1,6 +1,6 @@
 # Grant Hough
 
-granthough.com
+https://granthough.com
 
 <!-- [![Grant's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=granthough&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
